@@ -1,0 +1,11 @@
+{
+  "name": "hyper-hide-tabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:severinkaderli/hyper-hide-tabs",
+    "type": "git"
+  },
+  "author": "Severin Kaderli <severin.kaderli@gmail.com>",
+  "license": "MIT"
+}
